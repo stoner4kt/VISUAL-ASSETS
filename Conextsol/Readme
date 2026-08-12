@@ -1,0 +1,16 @@
+conextsol-mascot/
+├── base/                  ← neutral standing versions
+├── poses/
+│   ├── greeting/          ← waving, hello
+│   ├── pointing/          ← “look at this”
+│   ├── thumbs-up/         ← approval / success
+│   ├── thinking/          ← analyzing / strategy
+│   ├── presenting/        ← open arms / showcase
+│   ├── running/           ← energetic / fast
+│   ├── celebrating/       ← victory / wins
+│   ├── working/           ← laptop / hologram
+│   └── power/             ← confident / dynamic
+├── expressions/           ← face variations
+├── angles/                ← side, 3/4, close-up, etc.
+├── with-props/            ← holding objects, icons, screens
+└── video-ready/           ← extra clean / high-contrast versions for video
